@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: com.gfredericks/test.chuck:0.2.13">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gfredericks/test.chuck/0.2.13/test.chuck-0.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
